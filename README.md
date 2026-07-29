@@ -14,10 +14,10 @@
 
 # 💫 About Me
 
-🎓 **Education:** Studying Informatics & Computer Engineering Education at UNS  
-💡 **Interests:** Software Engineering, IoT Integration, UI/UX Design, & Data Analysis  
-🛠️ **Experience:** Web & Mobile App Development, IoT Hardware Wiring, & Technical Training  
-🎯 **Goals:** Always excited to experiment with new technologies, code small projects, and learn emerging tools (including AI & Prompt Engineering)  
+🎓 Studying Informatics & Computer Engineering Education at UNS  
+💡 Software Engineering, IoT Integration, UI/UX Design, & Data Analysis  
+🛠️ Web & Mobile App Development, IoT Hardware Wiring, & Technical Training  
+🎯 Excited to experiment with new technologies, code small projects, and learn emerging tools (including AI & Prompt Engineering)  
 
 <br/>
 
