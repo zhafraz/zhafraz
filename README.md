@@ -1,12 +1,10 @@
-<!-- HEADER BANNER / GAMBAR DI ATAS ABOUT ME -->
 <p align="center">
-  <!-- Kamu bisa mengganti URL src di bawah dengan link gambar/banner kamu sendiri -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=200&section=header&text=Hi%20There!%20I'm%20Thiraza%20👋&fontSize=42&fontAlign=50&fontAlignY=38&animation=fadeIn" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=200&section=header&text=Hi%20There!%20I'm%20Thiraza%20👋&fontSize=42&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=F3E5AB" alt="Header Banner" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3880FF&center=true&vCenter=true&width=500&lines=Informatics+%26+Computer+Engineering;Web+%26+Mobile+App+Developer;IoT+%26+Hardware+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3880FF&center=true&vCenter=true&width=500&lines=Informatics+%26+Computer+Engineering+Education;Web+%26+Mobile+App+Developer;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +34,7 @@
 
 # 💻 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -63,8 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=zhafraz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=zhafraz&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zhafraz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
