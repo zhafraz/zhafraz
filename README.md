@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=200&section=header&text=Hi%20There!%20I'm%20Thiraza%20👋&fontSize=42&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=F3E5AB" alt="Header Banner" width="100%"/>
+  <img src="h[ttps://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=200&section=header&text=Hi%20There!%20I'm%20Thiraza%20👋&fontSize=42&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=F3E5AB](https://abrakadabra.fun/uploads/posts/2022-03/1646922322_1-abrakadabra-fun-p-banner-profilya-dlya-tvicha-anime-2.jpg)" alt="Header Banner" width="100%"/>
 </p>
 
 <p align="center">
