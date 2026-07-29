@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zefirka.club/uploads/posts/2022-10/thumbs/1667131719_50-zefirka-club-p-banner-profilya-dlya-tvicha-anime-61.png" alt="Header Banner" width="100%" height="180" style="object-fit: cover; object-position: center;" />
+  <img src="https://zefirka.club/uploads/posts/2022-10/thumbs/1667131719_50-zefirka-club-p-banner-profilya-dlya-tvicha-anime-61.png" alt="Header Banner" width="100%"/>
 </p>
 
 <p align="center">
