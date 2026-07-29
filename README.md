@@ -60,9 +60,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=zhafraz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=zhafraz&theme=blue-green&show_icons=true&hide_border=false&count_private=true&border_radius=8" width="420" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zhafraz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zhafraz&theme=blue-green&hide_border=false&layout=compact&count_private=true&border_radius=8" width="420" alt="Top Languages" />
 </p>
 
 ---
