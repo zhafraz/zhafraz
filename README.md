@@ -1,7 +1,7 @@
 # Hi there, I'm Thiraza Naufal Zhafran Windra 👋
 
 # 💫 About Me:
-🎓 Studying Informatics & Computer Engineering Education at UNS.<br>💡 Passionate about **Software Engineering, IoT Integration, UI/UX Design, and Data Analysis**.<br>🛠️ Hands-on experience in **Web & Mobile App Development**, **IoT Hardware Wiring**, and **Technical Training**.<br>🎯 Always excited to experiment with new technologies, code small projects, and learn emerging tools (including AI & Prompt Engineering).<br>
+🎓 Studying Informatics & Computer Engineering Education at UNS.<br>💡 Passionate about **Software Engineering, IoT Integration, UI/UX Design, and Data Analysis**.<br>🛠️ Hands-on experience in **Web & Mobile App Development**, **IoT Hardware Wiring**, and **Technical Training**.<br>🎯 Excited to experiment with new technologies, code small projects, and learn tools (including AI & Prompt Engineering).<br>
 
 
 ## 🌐 Socials:
